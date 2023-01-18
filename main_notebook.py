@@ -1,5 +1,5 @@
 # Databricks notebook source
-from entrypoint import run
+from main import run
 
 # COMMAND ----------
 
